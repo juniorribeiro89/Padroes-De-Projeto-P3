@@ -1,2 +1,3 @@
-# PadroesDeProjeto
-Teds
+
+### Padrão
+.
