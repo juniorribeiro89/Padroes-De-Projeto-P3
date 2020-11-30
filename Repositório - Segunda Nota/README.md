@@ -1,0 +1,2 @@
+# PadroesDeProjeto
+Teds
