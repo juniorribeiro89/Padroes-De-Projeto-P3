@@ -30,3 +30,5 @@
 A mera substituição de um iterador permite caminhar numa coleção de várias formas
 Juntar a interface de caminhamento num iterador permite retirar esta interface da coleção, simplificando assim a interface desta coleção
 Várias iterações podem estar ocorrendo ao mesmo tempo, já que o estado de uma iteração é mantido no iterador e não na coleção
+
+## https://drive.google.com/file/d/1WpvzmnR752GHateVlrtBx1NQBbpovTa-/view?usp=sharing
